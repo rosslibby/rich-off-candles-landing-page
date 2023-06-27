@@ -41,14 +41,6 @@ const initialNav: NavItem[] = [
     icon: <i className="fa-brands fa-discord" />,
   },
   {
-    _id: 'disclaimer',
-    active: false,
-    color: '#ffab32',
-    name: 'Disclaimer',
-    url: '/disclaimer',
-    icon: <i className="fas fa-legal" />,
-  },
-  {
     _id: 'contact',
     active: false,
     color: '#ffffff',

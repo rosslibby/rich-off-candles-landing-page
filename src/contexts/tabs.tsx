@@ -18,19 +18,19 @@ const initialTabs: Tab[] = [
     _id: 'links',
     active: true,
     name: 'Links',
-    url: '/links',
+    url: '#links',
   },
   {
     _id: 'signals',
     active: false,
     name: 'Signals',
-    url: '/signals',
+    url: '#signals',
   },
   {
     _id: 'reviews',
     active: false,
     name: 'Reviews',
-    url: '/reviews',
+    url: '#reviews',
   },
 ]
 
